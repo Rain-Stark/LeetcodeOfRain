@@ -1,2 +1,2 @@
 # LeetCodeOfRain
-answers of problems in leetcode
+Answers of Problems in Leetcode
